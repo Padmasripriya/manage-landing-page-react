@@ -20,3 +20,10 @@ a {
   padding: 15px 30px;
   border-radius: 50px;
 }
+
+.num {
+  background: hsl(12, 88%, 59%);
+  color: #FFFFFF;
+  padding: 10px 30px;
+  border-radius: 50px;
+}
