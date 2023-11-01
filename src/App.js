@@ -4,11 +4,13 @@ import './fonts.css';
 import MenuComponent from './modules/MenuComponent';
 import SectionComponent from './modules/SectionComponent';
 import CtaComponent from './modules/CTAComponent';
+import HeaderComponent from './modules/HeaderComponent';
 
 function App() {
   return (
-    <div className="App">
+    <div className="App container">
       <MenuComponent />
+      <HeaderComponent />
       <SectionComponent />
       <CtaComponent />
     </div>
