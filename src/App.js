@@ -9,7 +9,7 @@ import TwoColumnComponent from './modules/TwoColumnComponent';
 
 function App() {
   return (
-    <div className="App container">
+    <div className="App container-fluid mx-auto my-auto px-4 py-4">
       <MenuComponent />
       <HeaderComponent />
       <TwoColumnComponent />
